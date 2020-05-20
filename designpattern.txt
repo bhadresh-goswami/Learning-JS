@@ -1,0 +1,14 @@
+-reusable solution to commonly occurring problems withing a given`context of software design
+
+-It resolve common problems in code
+
+-Creational 
+    Creating the new things
+
+-Structural
+    Give structure to your code
+
+-Behavioral
+    Use for bahaviors of code
+
+
